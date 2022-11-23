@@ -1,1 +1,16 @@
+body {
+background-color: paleturquoise;
 
+}
+#title {
+ color: white;
+ text-align: center;
+ padding-top: 4rem;
+}
+
+p {
+    color: whitesmoke;
+    text-align: center;
+    padding-bottom: 5rem;
+    font-style:italic
+}
